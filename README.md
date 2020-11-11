@@ -1,6 +1,6 @@
 # Zex-selfbot
 discord selfbot written in ararchy
-
+> you can change prefix in Program.cs default is 'z!'
 # commands
 * [delif] - delete messages if contains
   - (prefix)delif [limit] [string]
