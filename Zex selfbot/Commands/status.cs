@@ -17,7 +17,7 @@ namespace Zex_selfbot.Commands
         [Parameter("commandName")]
         public string CommandName { get; private set; }
 
-        [Parameter("Context")]
+        [Parameter("Context", true)]
         public string Thing { get; private set; }
 
 

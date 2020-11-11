@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Zex_selfbot.Commands
 {
-    [Command("scrape", "scrapes tokens from chanell")]
+    [Command("scrape", "scrapes tokens from channel limit multiplayed by 99")]
     public class ScrapeCoommand : CommandBase
     {
         [Parameter("limit")]
