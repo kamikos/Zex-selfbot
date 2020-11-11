@@ -21,3 +21,6 @@ discord selfbot written in ararchy
   * [reset] - resets status
 * [TBA] - TBA
   - (TBA)TBA [TBA] [TBA]
+# Tired of  pasting your token?
+- create start.bat file 
+- put ```"Zex selfbot.exe" "YOURTOKEN"```
